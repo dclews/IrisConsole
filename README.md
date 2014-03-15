@@ -1,3 +1,3 @@
 IrisConsole
 ==============
-A simple console frotend for [Iris](https://github.com/xClueless/Iris).
+A simple console frontend for [Iris](https://github.com/xClueless/Iris).
